@@ -1,0 +1,37 @@
+.container {
+  width: 50%;
+  margin: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 85%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .container {
+    width: 70%;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .container {
+    width: 60%;
+  }
+}
+
+.img {
+  height: 400px;
+  width: 100%;
+}
+
+.darkMode{
+  background-color: rgb(2, 0, 17);
+  color: white;
+}
+
+.lightMode{
+  background-color: rgb(240, 240, 240);
+  color: rgb(0, 0, 0);
+}
