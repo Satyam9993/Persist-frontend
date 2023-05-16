@@ -46,5 +46,5 @@
   "devDependencies": {
     "tailwindcss": "^3.3.2"
   },
-  "proxy": "https://persist-backend.vercel.app/"
+  "proxy": "https://persist-backend-rju7bbodm-satyam9993.vercel.app/"
 }
